@@ -1,4 +1,4 @@
-# 1 Introduction Sequence
+# 1. Introduction Sequence
 ### 1.1 Introduction to Git Commits
 
 ![image](https://github.com/user-attachments/assets/45bc85c4-3e4f-4246-a31e-ba4102da42fc)
